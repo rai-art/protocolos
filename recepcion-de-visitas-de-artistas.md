@@ -21,8 +21,6 @@ Para que esta guía sea efectiva se necesita contar con los siguientes recursos:
 
 Se recomienda enseñar el espacio entero, incluyendo tanto las salas de talleres, como las de eventos. Según la propuesta y el aforo previsto, centrarse en la sala que mejor se adapte a la propuesta&#x20;
 
-Caracteristicas salas
-
 ### Caracteristicas Salas
 
 #### Teatro de la Bona Sort
@@ -52,4 +50,10 @@ Equipo técnico:
 * Iluminación estática
 * Conexión wifi
 * Asistencia técnica se cobra a parte 20€/hora
+
+[Rider tecnico](https://raiassociacio.org/es/riders-tecnicos/)
+
+Horarios: de 10h a 00h. Ampliable hasta la 1h bajando el volumen.
+
+Precios alquiler: 25€ la hora. Sabado noche minimo 100€.
 
