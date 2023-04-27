@@ -14,7 +14,8 @@ Una política general es el conjunto de principios generales y criterios especí
 
 ### Principios de la política general de RAI
 
-Los principios que sigue esta política están expuestos en la página [principios.md](principios.md "mention").\
+Los principios que sigue esta política están expuestos en [principios.md](principios.md "mention").
+
 Estos principios son orientadores y permiten sentar una base para la planificació de eventos a lo largo del calendario, pudiendo crear por ejemplo:
 
 * Campañas en torno a una causa
@@ -23,7 +24,7 @@ Estos principios son orientadores y permiten sentar una base para la planificaci
 
 ### Criterios específicos
 
-Los criterios específicos que sigue esta política están expuestos en la página [principios.md](principios.md "mention")&#x20;
+Los criterios específicos que sigue esta política están expuestos en [criterios-especificos.md](criterios-especificos.md "mention")
 
 Estos criterios se aplican en la elección y en la priorización individualizada de los eventos que vayan a planificarse.
 
