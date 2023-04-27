@@ -3,6 +3,7 @@
 ## 🌐 everyone
 
 * [Recepción de visitas (de artistas)](README.md)
+  * [Resumen sobre RAI](everyone/recepcion-de-visitas-de-artistas/resumen-sobre-rai.md)
 
 ## 📆 Programación cultural
 
