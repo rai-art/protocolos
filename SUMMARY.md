@@ -15,5 +15,5 @@
 
 * [Actas](coordinacion/actas.md)
 * [Discord](coordinacion/discord.md)
-* [On boarding](coordinacion/onboarding.md)
+* [Onboarding](coordinacion/onboarding.md)
 * [Reuniones](coordinacion/reuniones.md)
