@@ -17,3 +17,7 @@
 * [Discord](coordinacion/discord.md)
 * [Onboarding](coordinacion/onboarding.md)
 * [Reuniones](coordinacion/reuniones.md)
+
+## 🍻 BAR
+
+* [Legacy](bar/legacy.md)
