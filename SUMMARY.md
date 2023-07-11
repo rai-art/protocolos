@@ -8,7 +8,8 @@
 ## 📆 Programación cultural
 
 * [Política general](programacion-cultural/politica-general/README.md)
-  * [Principios](programacion-cultural/politica-general/principios.md)
+  * [Principios](programacion-cultural/politica-general/principios/README.md)
+    * [Fuentes](programacion-cultural/politica-general/principios/fuentes.md)
   * [Criterios específicos](programacion-cultural/politica-general/criterios-especificos.md)
 
 ## ⭕ Coordinacion
